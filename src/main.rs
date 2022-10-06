@@ -1,5 +1,7 @@
 // mod print;
-mod vars;
+// mod vars;
+// mod types;
+mod strings;
 // mod testing;
 // you can import a file or module like this 
 
@@ -9,6 +11,8 @@ fn main() {
     // hello::run(); and then you have to use the module name and then the function name to use it 
     // print::run();
     // you are suppose to use the module name 
-    vars::run();
+    // vars::run();
+    // types::run();
+    strings::run();
 
 }
