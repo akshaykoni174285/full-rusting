@@ -1,7 +1,11 @@
 // mod print;
 // mod vars;
 // mod types;
-mod strings;
+// mod strings;
+// mod tuples;
+// mod arrays;
+// mod vectors;
+mod conditions;
 // mod testing;
 // you can import a file or module like this 
 
@@ -13,6 +17,8 @@ fn main() {
     // you are suppose to use the module name 
     // vars::run();
     // types::run();
-    strings::run();
+    // strings::run();
+    // vectors::run();
+    conditions::run();
 
 }
