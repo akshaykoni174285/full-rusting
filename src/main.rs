@@ -7,7 +7,10 @@
 // mod vectors;
 // mod conditions;
 // mod testing;
-mod loops;
+// mod loops;
+// mod function;
+// mod ponter_ref;
+mod structs;
 // you can import a file or module like this 
 
 // use hello::*;
@@ -20,6 +23,9 @@ fn main() {
     // types::run();
     // strings::run();
     // vectors::run();
-    loops::run();
+    // loops::run();
+    // function::run();
+    // ponter_ref::run();
+    structs::run();
 
 }
