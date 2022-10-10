@@ -12,7 +12,10 @@ pub fn run(){
         println!("you need to leave no drinks for you");
 
      }
-    // 
+    //  shorthand
+
+    //   let is_age = if age>=21 {true} else {false};
+
 
 
 

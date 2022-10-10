@@ -5,8 +5,9 @@
 // mod tuples;
 // mod arrays;
 // mod vectors;
-mod conditions;
+// mod conditions;
 // mod testing;
+mod loops;
 // you can import a file or module like this 
 
 // use hello::*;
@@ -19,6 +20,6 @@ fn main() {
     // types::run();
     // strings::run();
     // vectors::run();
-    conditions::run();
+    loops::run();
 
 }
