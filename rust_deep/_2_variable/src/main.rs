@@ -8,5 +8,6 @@ fn main() {
         .expect("the age variable doesnt have a valid value");
     age = age+10;
     println!("i am {} and i want this much money ${}", age, number);
+    // println!("this is just a comment and ")
     // now remember cahracter is single quotes and the str is in doube quotes
 }
